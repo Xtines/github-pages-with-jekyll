@@ -1,3 +1,7 @@
-# Welcome to my blog
+Welcome to my blog
+=====================
 
-I'm glad you are here. I plan to talk about ...
+A place to ruminate on many things related to data, especially the intersection of data, business and commerce. 
+
+A bit about me - a data nerd interested in the intersection of business, data products, commerce. Lover of good food, books and travel.
+
